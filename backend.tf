@@ -1,4 +1,4 @@
-terraform {
+
   cloud {
     organization = "FusionIT"
 
